@@ -1,3 +1,3 @@
 # New Projects
 This project was created
-by Pranav Gore
+by Pranav Gore from pal
